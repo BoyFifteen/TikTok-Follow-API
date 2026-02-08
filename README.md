@@ -4,7 +4,6 @@
 ⚡ Built for modern TikTok versions (43.x+)  
 
 ---
-
 ## 📌 Overview
 
 This project demonstrates a **modern TikTok Android request structure** for the endpoint: /aweme/v1/commit/follow/user/
